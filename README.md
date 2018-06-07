@@ -1,4 +1,4 @@
-# ZED-Distance-measurement-along-with-timer
+# ZED-Distance measurement along with timer
 
 # Distance measurement with the stereo camera
 This program shows how to get the depth along with timer from the ZED stereo camera using ZED SDK. The program will loop until 100 frames are grabbed.
